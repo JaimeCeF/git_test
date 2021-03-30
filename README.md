@@ -1,1 +1,1 @@
-This s JaimeCeF's first git project.
+This is JaimeCeF's first git project.
